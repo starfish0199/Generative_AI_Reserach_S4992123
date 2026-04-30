@@ -1,0 +1,12 @@
+**Activity 1 Q1 - Explain why it is important to store and organise your files efficiently. (2-3 sentences)**
+
+Efficient file organisation is important because it makes it easier to find and manage data quickly. It also reduces the risk of losing files or making mistakes when working with multiple datasets. Good organisation improves collaboration and overall productivity.
+
+**Activity 1 Q2 - Explain your methods for storing the different types of data in the scenario. Specify which data types may require special access controls. (2-3 sentences)**
+
+Different types of data should be stored in separate folders, such as datasets in a Data folder, reports in a Reports folder, and literature in a Literature folder, pictures in an Imange folder. Sensitive data, such as participant information or consent forms, should have restricted access to protect privacy. Access control ensures that only authorised users can view or edit important data.
+
+**Activity 2 Q1 - Why is ti important tu have a good maing convertion? (2-3 sentences)**
+
+A good naming convention is important because it helps users understand the content of files without opening them. It also keeps files organised and consistent, especially when working in teams. Clear naming reduces confusion and makes data management more efficient.
+
